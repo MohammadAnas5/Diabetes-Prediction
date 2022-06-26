@@ -1,1 +1,1 @@
-# Diabities-Predictor
+# Diabetes-Predictor
