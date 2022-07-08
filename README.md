@@ -7,6 +7,7 @@
 ## Data preparation - 
   Data preprocessing is a data mining technique which is used to transform the raw data in a useful and efficient format.
 ## Modeling –
+  The outputs of prediction and feature engineering are a set of label times, historical examples of what we want to predict, and features, predictor variables used to train a model to predict the label. The process of modeling means training a machine learning algorithm to predict the labels from the features, tuning it for the business need, and validating it on holdout data.
   
 ## Evaluation – 
 ## Deployment – 
